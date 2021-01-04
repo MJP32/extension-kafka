@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AxonFramework/extension-kafka)
+
 # Axon Framework - Kafka Extension 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.axonframework.extensions.kafka/axon-kafka/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.axonframework.extensions.kafka/axon-kafka/)
 ![Build Status](https://github.com/AxonFramework/extension-kafka/workflows/Kafka%20Extension/badge.svg?branch=master)
